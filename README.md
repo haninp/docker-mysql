@@ -14,7 +14,7 @@ The script i upload here doesn't declare that my method is corect one, i only sh
 
 ## how-to :
 ### Clone the repo
->**git clone**
+>**git clone https://github.com/haninp/docker-mysql.git**
 ### Change Directory
 >**cd docker-mysql**
 ### Pre-config

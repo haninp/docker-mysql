@@ -13,7 +13,7 @@ Script yang saya upload disini **tidak** mendeklarasikan bahwa cara saya paling 
 
 ## how-to :
 ### Clone the repo
->**git clone**
+>**git clone https://github.com/haninp/docker-mysql.git**
 ### Change Directory
 >**cd docker-mysql**
 ### Pre-config
